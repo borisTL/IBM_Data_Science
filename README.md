@@ -19,43 +19,50 @@ Data science is all about collecting, cleaning, organizing, and analyzing data t
 
 **Delve into top industry tools and libraries:**
 - Python, SQL, Jupyter notebooks, Github, Rstudio
-- Libraries: Pandas, Numpy, ScikitLearn, Matplotlib, and many more.
-
-## 🚀 Career Advantages
-
-- Build a robust data science project portfolio for interview readiness.
-- Get exclusive access to IBM’s Talent Network, spotlighting fresh job openings, tailored recommendations, and invaluable tips.
-- 💡 **Bonus:** The program holds an ACE® recommendation, granting you a chance to earn up to 12 college credits.
+- Libraries: Pandas, Numpy, ScikitLearn, Matplotlib
+- Data Mining, Big Data, Machine Lerning
 
 ## 🎓 Applied Learning Project
 
 This certificate emphasizes experiential learning. Engage in purposeful labs on IBM Cloud and cultivate skills directly relevant to real-world scenarios.
 
 **Key Projects Include:**
-- Data extraction and financial visualization with Pandas
-- Data querying: census, crime, school demographics via SQL
-- Housing price prediction harnessing Python's data science toolkit
-- ... (Continue listing all projects similarly)
+- **Financial Data Visualization**: Extract and graph financial data using the Pandas Python library.
+- **Data Query with SQL**: Use SQL to query census, crime, and school demographic data sets.
+- **Housing Price Prediction**: Wrangle data, graph plots, and use regression models to predict housing prices with Python's data science libraries.
+- **Flight Reliability Dashboard**: Create a dynamic Python dashboard to monitor, report, and improve US domestic flight reliability.
+- **Loan Prediction using ML**: Apply and compare machine learning classification algorithms to predict if a loan will be paid off.
+- **Rocket Reusability Prediction**: Train and compare machine learning models to determine if a space launch can reuse the first stage of a rocket.
+
 
 ## 📚 Courses:
 
-- [What is Data Science?](#) - 7 hours |
-- [Tools for Data Science](#) - 17 hours |
-- 
-
+- [What is Data Science?](#) - 7 hours 
+- [Tools for Data Science](#) - 17 hours 
+- [Data Science Methodology](#) - 8 hours 
+- [Python for Data Science, AI & Development](#) - 23 hours
+- [Python Project for Data Science](#) - 8 hour
+- [Databases and SQL for Data Science with Python](#) - 31 hours
+- [Data Analysis with Python](#) - 14 hours
+- [Data Visualization with Python](#) - 19 hours
+- [Machine Learning with Python](#) - 12 hours
+- [Applied Data Science Capstone](#) - 17 hours
   
-
 ## 🎓 Instructors:
 
-- [Dr. Pooja](#) | 1 Course | 228,933 learners
-- [Romeo Kienzler](#) | 9 Courses | 550,193 learners
-- ... (List all instructors similarly)
-
-## 🏆 Certificate & Sharing
-
-On program completion, flaunt a career certificate:
-- [Add to your LinkedIn, resume, or CV](#).
-- Showcase your prowess on social media and during evaluations.
+- [Dr. Pooja](#) 
+- [Romeo Kienzler](#) 
+- [Joseph Santarcangelo](#)
+- [Polong Lin](#)
+- [Alex Aklson](#)
+- [Rav Ahuja](#)
+- [Saishruthi Swaminathan](#)
+- [SAEED AGHABOZORGI](#)
+- [Hima Vasudevan](#)
+- [Azim Hirjani](#)
+- [Aije Egwaikhide](#)
+- [Yan Luo](#)
+- [Svetlana Levitan](#)
 
 **Offered by:** IBM
 
